@@ -1,0 +1,3 @@
+﻿  pikarakis thema 2.cpp
+C:\Users\lstat\source\repos\pikarakis thema 2\pikarakis thema 2\pikarakis thema 2.cpp(17,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pikarakis thema 2.vcxproj -> C:\Users\lstat\source\repos\pikarakis thema 2\Debug\pikarakis thema 2.exe
